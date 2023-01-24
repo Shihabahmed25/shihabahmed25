@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/5496464/pexels-photo-5496464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="100%"><br> 
+<img src="https://images.pexels.com/photos/5496464/pexels-photo-5496464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" ><br> 
  
 <h1 align="center">Hi 👋, I'm SHIHAB AHMED</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
